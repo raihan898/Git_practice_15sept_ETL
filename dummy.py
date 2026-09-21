@@ -10,3 +10,7 @@ print(add(3, 2))
 
 
 print("Hello this is the new practice of the changes")
+
+
+for i in range(1,101):
+    print(i)
